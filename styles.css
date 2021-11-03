@@ -1,0 +1,38 @@
+body{
+    background-color:hsl(50, 47%, 81%);
+    font-family:'Andika New Basic', sans-serif;;
+}
+
+#title{
+   font-family:'Rock Salt', cursive;
+   font-size: 50px;
+   text-align: center;
+   padding: 20px;
+}
+
+#subtitle{
+    text-align: center;
+    bottom: 10px;
+}
+
+#img-div{
+    height: 510px;
+    width: 705px;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+#image{
+    border-radius: 10px;
+}
+
+#tribute-info{
+    background-color:hsl(50, 47%, 77%);
+}
+
+#list{
+    
+}
+
+    
