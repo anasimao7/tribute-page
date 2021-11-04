@@ -25,14 +25,32 @@ body{
 
 #image{
     border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 
 #tribute-info{
-    background-color:hsl(50, 47%, 77%);
+    background-color:hsl(50, 47%, 79%);
+    padding: 10px;
 }
 
 #list{
-    
+    margin-left: 100px;
+    line-height: 30px;
+    font-size: 18px;
 }
 
+#quote{
+    font-size: 25px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    padding: 5px;
+    background-color:hsl(50, 47%, 77%);
+}
     
