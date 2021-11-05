@@ -63,11 +63,11 @@ footer{
 /*Responsivo*/
 @media (max-width: 425px){
     #title{
-        width: 175%;
+        width: 180%;
     }
 
     #subtitle1{
-        width: 175%;
+        width: 180%;
     }
 
     #subtitle2{
@@ -75,7 +75,7 @@ footer{
     }
 
     #img-div{
-        font-size: 20px;
+        font-size: 25px;
     }
 
     #image{
@@ -85,19 +85,19 @@ footer{
     }
 
     #tribute-info{
-        width: 170%;
+        width: 175%;
     }
 
     #list{
         line-height: 40px;
-        font-size: 20px;
+        font-size: 25px;
     }
 
     #quote{
-        width: 175%;
+        width: 180%;
     }
 
     footer{
-        width: 175%;
+        width: 180%;
     }
 }
