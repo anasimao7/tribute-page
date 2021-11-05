@@ -1,6 +1,7 @@
 body{
     background-color:hsl(50, 47%, 81%);
-    font-family:'Andika New Basic', sans-serif;;
+    font-family:'Andika New Basic', sans-serif;
+    margin: 0px;
 }
 
 #title{
@@ -10,7 +11,12 @@ body{
    padding: 20px;
 }
 
-#subtitle{
+#subtitle1{
+    text-align: center;
+    bottom: 10px;
+}
+
+#subtitle2{
     text-align: center;
     bottom: 10px;
 }
@@ -53,4 +59,40 @@ footer{
     padding: 5px;
     background-color:hsl(50, 47%, 77%);
 }
-    
+
+/*Responsivo*/
+@media (max-width: 425px){
+    #title{
+        width: 160%;
+    }
+
+    #subtitle1{
+        width: 160%;
+    }
+
+    #subtitle2{
+        width: 100%;
+    }
+
+    #image{
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    #tribute-info{
+        width: 160%;
+    }
+
+    #list{
+        line-height: 40px;
+    }
+
+    #quote{
+        width: 160%;
+    }
+
+    footer{
+        width: 160%;
+    }
+}
