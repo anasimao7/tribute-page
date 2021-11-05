@@ -4,7 +4,7 @@
 
 Este projeto faz parte do meu percurso na plataforma [freeCodeCamp](https://www.freecodecamp.org/portuguese/learn), sendo o primeiro a ser requerido para a obtenção do [Certificado Design Responsivo para a Web](https://www.freecodecamp.org/portuguese/learn/responsive-web-design/).
 
-## Tema
+## ✨ Tema
 Decidi escolher o escritor **José Saramago** para homenagear pois gosto bastante dos seus livros e queria que o tema do projeto fosse relacionado à literatura.
 
 Inspirei-me na capa do livro **_Memorial do Convento_** para fazer o design do site.
